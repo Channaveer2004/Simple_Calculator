@@ -11,3 +11,5 @@ Technologies Used
 HTML: The structure of the calculator is defined using HTML.
 CSS: Styling is applied using CSS for an aesthetically pleasing appearance.
 JavaScript: The logic for handling user input and performing calculations is implemented with JavaScript.
+
+Demo : https://chnvr-calc.netlify.app/
